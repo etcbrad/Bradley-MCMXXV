@@ -1,0 +1,5 @@
+{
+  "name": "AI Anecdote Terminal",
+  "description": "A parody AI terminal that types out human anecdotes as if it were an archaic text-adventure engine, complete with human-like typing errors and a blinking cursor.",
+  "requestFramePermissions": []
+}
